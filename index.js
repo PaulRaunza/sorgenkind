@@ -37,7 +37,7 @@ $(document).ready(function(){
   var m_car = document.getElementById('Car_1_');
   var m_egg1 = document.getElementById('egg1');
 
-  var myModal= document.getElementById('modal');
+  var myModal= $('#modal');
 
   var modalTitle= document.getElementById("modalTitle");
   var modalBody= document.getElementById("modalBody");
